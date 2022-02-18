@@ -1,0 +1,16 @@
+*.zip
+
+.vs/
+
+Backup/
+bin/
+lib/
+obj/
+
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+*.pdb
+*.ipdb
+*.obj
+*.log
